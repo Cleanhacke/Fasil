@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+safacil.com	TRUE	/	FALSE	1999999999	PHPSESSID	6ed6d904e24898062b1649e9c0219a38
+safacil.com	TRUE	/	FALSE	1999999999	supportid	1737070702094
+

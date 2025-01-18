@@ -1,0 +1,15 @@
+HTTrack3.49-5 launched on Thu, 16 Jan 2025 18:37:59 at https://safacil.com
+(httrack https://safacil.com -O site_cloné )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:38:21	Warning: 	Retry after error 500 (Internal Server Error) at link https://safacil.com/customerservice (from https://safacil.com/login)
+18:38:25	Warning: 	Link https://safacil.com/p2p not scanned (follow robots meta tag)
+18:38:25	Warning: 	Link https://safacil.com/safacilpay not scanned (follow robots meta tag)
+18:38:25	Warning: 	Link https://safacil.com/wallet not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-5 mirror complete in 26 seconds : 18 links scanned, 16 files written (144104 bytes overall) [96756 bytes received at 3721 bytes/sec], 85661 bytes transferred using HTTP compression in 12 files, ratio 30%, 3.6 requests per connection
+(No errors, 4 warnings, 0 messages)
